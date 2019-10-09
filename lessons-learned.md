@@ -1,0 +1,1 @@
+I created this file with the echo command in Git Bash. This assignment has introduced me to the world of GitHub and introduced me to what I think are some basic Linux commands? I could be wrong. Anyway, this is pretty cool and I'm thankful for being taught how to use GitHub. I can now easily navigate through file directories as well as control commit iterations with branches.
